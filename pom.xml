@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>batch@70</finalName>
+    <finalName>batch70.1</finalName>
   </build>
 </project>
